@@ -1,2 +1,2 @@
 # Bokmon
-LMS 3ck 복겟몬
+LMS 3차 복겟몬
